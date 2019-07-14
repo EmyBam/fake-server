@@ -1,4 +1,5 @@
-[
+{
+  "registrations": [
   {
     "value": "MEAL",
     "showName": "Питание"
@@ -16,5 +17,6 @@
     "showName": "Выдача лекарства"
   }
 ]
+}
 
 
