@@ -1,0 +1,20 @@
+[
+  {
+    "value": "MEAL",
+    "showName": "Питание"
+  },
+  {
+    "value": "MEDICAL_TEST",
+    "showName": "Анализы"
+  },
+  {
+    "value": "PROCEDURE",
+    "showNamae": "Процедура по уходу"ou
+  },
+  {
+    "value": "MEDICINE",
+    "showName": "Выдача лекарства"
+  }
+]
+
+
