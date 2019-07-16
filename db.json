@@ -1,5 +1,5 @@
 {
-  "registrationTypes": [
+  "registrationsTypes": [
   {
     "value": "MEAL",
     "showName": "Питание"
