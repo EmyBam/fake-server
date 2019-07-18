@@ -17,10 +17,10 @@
       "showName": "Выдача лекарства"
     }
   ],
-  "07-18-2019": [
+  "07-17-2019": [
     {
       "id": "e82ce815-22d3-446e-8e6e-705607a429d2",
-      "dateTime": "07-18-2019 05:30",
+      "dateTime": "07-17-2019 05:30",
       "type": "MEAL",
       "comment": "new comment *",
       "registrationItem": {
@@ -32,7 +32,7 @@
     },
     {
       "id": "c4d930b3-ac90-4968-af15-3729c973be22",
-      "dateTime": "07-18-2019 16:45",
+      "dateTime": "07-17-2019 16:45",
       "type": "MEAL",
       "comment": "Had good appetite",
       "registrationItem": {
