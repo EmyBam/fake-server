@@ -1,22 +1,49 @@
 {
   "registrationsTypes": [
-  {
-    "value": "MEAL",
-    "showName": "Питание"
-  },
-  {
-    "value": "MEDICAL_TEST",
-    "showName": "Анализы"
-  },
-  {
-    "value": "PROCEDURE",
-    "showNamae": "Процедура по уходу"
-  },
-  {
-    "value": "MEDICINE",
-    "showName": "Выдача лекарства"
-  }
-]
+    {
+      "value": "MEAL",
+      "showName": "Питание"
+    },
+    {
+      "value": "MEDICAL_TEST",
+      "showName": "Анализы"
+    },
+    {
+      "value": "PROCEDURE",
+      "showNamae": "Процедура по уходу"
+    },
+    {
+      "value": "MEDICINE",
+      "showName": "Выдача лекарства"
+    }
+  ],
+  "03-24-2019": [
+    {
+      "id": "e82ce815-22d3-446e-8e6e-705607a429d2",
+      "dateTime": "03-24-2019 05:30",
+      "type": "MEAL",
+      "comment": "new comment *",
+      "registrationItem": {
+        "id": "f50e6cf7-ea52-4544-aca1-978dc8596dd0",
+        "name": "Royal Canin Instinctive",
+        "description": "",
+        "quantity": 25
+      }
+    },
+    {
+      "id": "c4d930b3-ac90-4968-af15-3729c973be22",
+      "dateTime": "03-24-2019 16:45",
+      "type": "MEAL",
+      "comment": "Had good appetite",
+      "registrationItem": {
+        "id": "f50e6cf7-ea52-4544-aca1-978dc8596dd0",
+        "name": "Royal Canin Instinctive",
+        "description": "",
+        "quantity": 25
+      }
+    }
+  ],
+
 }
 
 
