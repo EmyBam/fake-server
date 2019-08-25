@@ -29,18 +29,13 @@
         "description": "",
         "quantity": 25
       }
-    },
+    }
+  ],
+  "registrationItems":[
     {
-      "id": "c4d930b3-ac90-4968-af15-3729c973be22",
-      "dateTime": "07-17-2019 16:45",
-      "type": "MEAL",
-      "comment": "Had good appetite",
-      "registrationItem": {
-        "id": "f50e6cf7-ea52-4544-aca1-978dc8596dd0",
-        "name": "Royal Canin Instinctive",
-        "description": "",
-        "quantity": 25
-      }
+      "id":"f50e6cf7-ea52-4544-aca1-978dc8596dd0",
+      "name":"Royal Canin Instinctive",
+      "deletable":false
     }
   ]
 }
