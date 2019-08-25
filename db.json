@@ -1,21 +1,6 @@
 {
   "registrationsTypes": [
-    {
-      "value": "MEAL",
-      "showName": "Питание"
-    },
-    {
-      "value": "MEDICAL_TEST",
-      "showName": "Анализы"
-    },
-    {
-      "value": "PROCEDURE",
-      "showNamae": "Процедура по уходу"
-    },
-    {
-      "value": "MEDICINE",
-      "showName": "Выдача лекарства"
-    }
+    "MEAL", "MEDICAL_TEST", "PROCEDURE", "MEDICINE"
   ],
   "07-17-2019": [
     {
