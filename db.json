@@ -22,6 +22,20 @@
       "name":"Royal Canin Instinctive",
       "deletable":false
     }
+  ],
+  "e82ce815-22d3-446e-8e6e-705607a429d2?type=MEAL": [
+    {
+      "id": "e82ce815-22d3-446e-8e6e-705607a429d2",
+      "dateTime": "07-17-2019 05:30",
+      "type": "MEAL",
+      "comment": "new comment *",
+      "quantity": 25,
+      "registrationItem": {
+        "id": "f50e6cf7-ea52-4544-aca1-978dc8596dd0",
+        "name": "Royal Canin Instinctive",
+        "description": ""
+      }
+    }
   ]
 }
 
