@@ -23,8 +23,7 @@
       "deletable":false
     }
   ],
-  "registrationTypeMEAL": [
-    {
+  "registrationTypeMEAL": {
       "id": "e82ce815-22d3-446e-8e6e-705607a429d2",
       "dateTime": "07-17-2019 05:30",
       "type": "MEAL",
@@ -36,7 +35,6 @@
         "description": ""
       }
     }
-  ]
 }
 
 
