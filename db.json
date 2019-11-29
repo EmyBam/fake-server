@@ -14,13 +14,32 @@
         "name": "Royal Canin Instinctive",
         "description": ""
       }
+    },
+      {
+      "id": "e82ce815-22d3-446e-8e6e-705607d89",
+      "date": "07-17-2019 12:30",
+      "type": "MEAL",
+      "comment": "brand new comment *",
+      "quantity": 50,
+      "registrationItem": {
+        "id": "f50e6cf7-ea52-4544-aca1-978dc8596cc1",
+        "name": "Royal Canin Indoor",
+        "description": "Dry food"
+      }
     }
   ],
   "MEAL":[
     {
       "id":"f50e6cf7-ea52-4544-aca1-978dc8596dd0",
       "name":"Royal Canin Instinctive",
-      "deletable":false
+      "description": "Healthy nutrition",
+      "measureUnit": "GRAM"
+    },
+    {
+      "id":"f50e6cf7-ea52-4544-aca1-978dc8596cc1",
+      "name": "Royal Canin Indoor",
+      "description": "Dry food",
+      "measureUnit": "GRAM"
     }
   ],
   "registrationTypeMEAL": {
