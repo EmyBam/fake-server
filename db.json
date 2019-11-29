@@ -32,14 +32,14 @@
     {
       "id":"f50e6cf7-ea52-4544-aca1-978dc8596dd0",
       "name":"Royal Canin Instinctive",
-      "description": "Healthy nutrition",
-      "measureUnit": "GRAM"
+      "measureUnit": "GRAM",
+      "description": "Healthy nutrition"
     },
     {
       "id":"f50e6cf7-ea52-4544-aca1-978dc8596cc1",
       "name": "Royal Canin Indoor",
-      "description": "Dry food",
-      "measureUnit": "GRAM"
+      "measureUnit": "GRAM",
+      "description": "Dry food"
     }
   ],
   "registrationTypeMEAL": {
@@ -53,6 +53,12 @@
         "name": "Royal Canin Instinctive",
         "description": ""
       }
+    },
+  "regItemTypeMEAL": {
+      "id":"f50e6cf7-ea52-4544-aca1-978dc8596dd0",
+      "name":"Royal Canin Instinctive",
+      "measureUnit": "GRAM",
+      "description": "Healthy nutrition"
     }
 }
 
